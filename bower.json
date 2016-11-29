@@ -1,0 +1,18 @@
+{
+  "name": "Exp3",
+  "homepage": "https://github.com/DwebDAgullo/Exp3",
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ajax": "^2.1.2",
+    "bootstrap": "^3.3.7"
+  }
+}
